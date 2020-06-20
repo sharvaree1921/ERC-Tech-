@@ -21,6 +21,8 @@ The same kinds of simple instructions that kilobots use to self-assemble into sh
 
 for more interesting stuff about kilobots,click [here](https://youtu.be/QXNVZJ3KUsA)
 
+![kilobots](https://github.com/sharvaree1921/ERC-Tech-/blob/master/images/kilobots.jpeg)
+
 ## TechThursdays
 ### LOVOTS-
 LOVOT : A Combination of Love+Robot!
