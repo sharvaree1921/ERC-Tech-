@@ -55,5 +55,5 @@ Both qualitative and quantitative evaluations show that the method produces visu
 The researchers say their tool is easy to use, even for non-artists, while still supporting fine-grained control of shape details. They are working on releasing the source code soon.
 
 ![dl1](https://github.com/sharvaree1921/ERC-Tech-/blob/master/images/dl1.jpg)
-![dl2](https://github.com/sharvaree1921/ERC-Tech-/blob/master/images/dl2.jpg)
+![dl2](https://github.com/sharvaree1921/ERC-Tech-/blob/master/images/dl2.png)
 
