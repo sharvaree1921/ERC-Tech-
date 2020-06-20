@@ -27,8 +27,8 @@ LOVOT : A Combination of Love+Robot!
 Want to be loved by someone? Want to enhance your mood?
 Here comes your companion named 'Lovot', an excellent example of Emotional Robotics!
 
-    Lovot will react to your moods, has facial expressions and do all it can to fill you with joy and re-energize you.This 4.2 kilogram weighing bot, a Japan based model, has 10 or more CPU cores, 20 or more MCUs, and 50 or more sensors, which can create behaviour that is much like a living being.
-     Lovot uses Machine-Learning to understand the behaviours of Human beings.An application in the mobile is used to keep its track, change its eye-color and to check its daily routine via a calender.Lovot's actions are pre-programmed through deep-learning, so that they can take actions in real time.There are foldable wheels, flexible shoulders and a smooth skin comprising of pressure sensors, 360-degree half sphere camera, thermal camera, posture sensors,etc to detect human touch and its responses.Lovot's reactions are cute and warming.
+Lovot will react to your moods, has facial expressions and do all it can to fill you with joy and re-energize you.This 4.2 kilogram weighing bot, a Japan based model, has 10 or more CPU cores, 20 or more MCUs, and 50 or more sensors, which can create behaviour that is much like a living being.
+Lovot uses Machine-Learning to understand the behaviours of Human beings.An application in the mobile is used to keep its track, change its eye-color and to check its daily routine via a calender.Lovot's actions are pre-programmed through deep-learning, so that they can take actions in real time.There are foldable wheels, flexible shoulders and a smooth skin comprising of pressure sensors, 360-degree half sphere camera, thermal camera, posture sensors,etc to detect human touch and its responses.Lovot's reactions are cute and warming.
 
 Want to know more? 
 [click here](https://lovot.life/en/technology/)
