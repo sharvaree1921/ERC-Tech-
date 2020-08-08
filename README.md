@@ -253,6 +253,7 @@ SPARROW, a steam-powered robotic concept, could one day take giant leaps over so
 A novel robotic concept being investigated at NASA’s Jet Propulsion Laboratory in Southern California would use steam propulsion to hop across the sort of icy terrains found on Jupiter’s moon Europa and Saturn’s moon Enceladus. Both are thought to host vast subsurface oceans of salty water under a thick ice crust. But while that makes them fascinating destinations for scientific study, the little we know about their surfaces could also make navigating them especially challenging.
 That’s where the Steam Propelled Autonomous Retrieval Robot for Ocean Worlds, or SPARROW, comes in. About the size of a soccer ball, the robot consists of a system of thrusters, avionics and instruments encased in a protective spherical cage. To keep the environment pristine for study, SPARROW would run not on rocket fuel but on steam produced from melted ice, traveling primarily through the air via short thrusts. In the sort of low-gravity environment found on those distant icy moons, there’d be no atmospheric drag to slow it down, enabling hops of many miles over landscapes that other robots would have difficulty navigating.
 ![sparrow](https://github.com/sharvaree1921/Photos_for_repo/blob/master/SPARROW-Robot-777x437.jpg)
+
 check out this amazing [video](https://www.youtube.com/watch?time_continue=68&v=nkimUw3GqLQ&feature=emb_logo)
 
 ### Spy cam
