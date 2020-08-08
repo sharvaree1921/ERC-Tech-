@@ -138,3 +138,32 @@ Aqua-Fi will not be available until the researchers overcome several obstacles. 
 ![aqua fi](https://github.com/sharvaree1921/ERC-Tech-/blob/master/images/aquafi1.jpeg)
 
 ![aqua fi2](https://github.com/sharvaree1921/ERC-Tech-/blob/master/images/aquafi2.jpeg)
+
+### Steam-Powered Peigon
+The first robot, created in 400 BCE, was a steam-powered pigeon!
+It’s easy to assume that robots are a relatively recent invention—but in fact, the history of robotics stretches back well over 2000 years. The first, a steam-powered “pigeon,” was created around 400 to 350 BCE by the ancient Greek mathematician Archytas.
+Archytas constructed his Robo-bird out of wood and used steam to power its movements. The bird, suspended from a pivot bar, was at one point able to fly about 200 meters before it ran out of steam—which makes Archytas’ experiment, not just the first known robot, but was also one of the first recorded instances of a scientist doing research on how birds fly.
+
+![Steam-powered peigon](https://github.com/sharvaree1921/Photos_for_repo/blob/master/104960512_3538879649472731_7637852084926400147_n.png)
+Read more [here](https://www.mentalfloss.com/article/13083/first-robot-created-400-bce-was-steam-powered-pigeon?fbclid=IwAR0xV6MOBx3_1vK3aJFL7Co9RjAw8H7jBJw522UljVwD3vwFb5yOElews3s)
+Check out this [video](https://www.youtube.com/watch?v=_KQhSDur1WU&fbclid=IwAR2GPYJAOqWJ-TvRdGxKwddnCHa7PcDJC3kuuVk1XjcjQvrloJQLAOg5ctw)
+
+### AI based Stiching Robot(Surgeon)
+You probably wouldn’t want a surgeon to stitch you up if they’d learned their craft by studying YouTube videos. But what about a robot?
+
+The prospect might not be as fanciful as it sounds. Researchers from UC Berkeley, Intel, and Google Brain recently taught an AI model to operate by imitating videos of eight human surgeons at work.
+The algorithm — known as Motion2Vec — was trained on footage of medics using da Vinci surgical robots to perform suturing tasks such as needle-passing and knot-tying.
+The da Vinci system has been operating on patients — including James Bond on one occasion — since the early 2000s. Typically, the robot is controlled by a doctor from a computer console. But Motion2Vec directs the machine on its own.
+
+It’s already proven its stitching skills on a piece of cloth. In tests, the system replicated the human surgeons‘ movements with an accuracy of 85.5%.
+
+Reaching that level of precision was not an easy task. The eight surgeons in the videos used a wide variety of techniques, which made it tricky for the AI to figure out the best approach.
+
+To overcome this challenge, the team used semi-supervised algorithms, which learn a task by analyzing partially-labeled datasets. This allowed the AI to understand the surgeons‘ essential movements from a just small quantity of labeled video data.
+
+Dr. Ajay Tanwani, who led the UC Berkeley team, told TNW that this created a sample-efficient model:
+
+    What we did was combine a small amount of labelled data so that we do not get a hit on the performance, while we were also able to exploit the structures in the unlabelled data.
+
+Check it out in action in the video https://youtu.be/GTP7mQ-_wno
+
