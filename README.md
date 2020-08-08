@@ -163,7 +163,97 @@ To overcome this challenge, the team used semi-supervised algorithms, which lear
 
 Dr. Ajay Tanwani, who led the UC Berkeley team, told TNW that this created a sample-efficient model:
 
-    What we did was combine a small amount of labelled data so that we do not get a hit on the performance, while we were also able to exploit the structures in the unlabelled data.
+'' What we did was combine a small amount of labelled data so that we do not get a hit on the performance, while we were also able to exploit the structures in the unlabelled data.''
 
-Check it out in action in the video https://youtu.be/GTP7mQ-_wno
+Check it out in action in the video:  https://youtu.be/GTP7mQ-_wno
+
+If you’re still not convinced that a robot surgeon trained on YouTube should be stitching up your wounds, you can relax — for now. Tanwani admits that the system needs a lot of work before it’s sewing up the operating theatre.
+He now plans to integrate the needle with different kinds of tissues so the system can adapt to different situations — like an unexpected eruption of blood.
+The next big milestone for Tanwani is semi-automated remote surgery. He envisions the robot providing assistance to a physician: snapping to their target, correcting any inaccurate movements, or even sticking stitches to a wound.
+
+Tanwani compares this approach to driver-assist features in semi-autonomous cars:
+" The surgeon is in total control of the surgery. But at the same time, we want to provide features that can take care of some mundane tasks, to reduce the cognitive load on the surgeons and increase their productivity to potentially focus on more patients and complex cases as well."
+
+Just like the transition towards autonomous vehicles, these incremental advances should help gain the trust of users. Ultimately, Tanwani believes the self-supervised approach could bring AI to a range of real-world applications:
+" The internet is filled with so much unstructured information in the form of videos, images, and text. The idea here was that if the robots can mine useful content from it to make sense of this data in the same way as humans do, robots can fulfill the long-standing goal of AI: to provide assistance in performing everyday life tasks."
+
+### Ballie
+Ballie : Samsung introduced its vision of robots as "life companions" at this year's Consumer Electronics Show(Jan 2020) – a tiny, ball-shaped AI device that rolls around the house and responds to commands like a pet dog. The small, yellow Ballie robot is designed to act as a personal assistant for the home.
+The device uses a mobile interface, on-device artificial intelligence (AI) capabilities, voice activation and an in-built camera to recognize and respond to its users, and help them with various household tasks.It responds to spoken demands as a pet might, but can be used as a wake up call, a fitness assistant, to record moments or to manage other smart devices in the home like TVs and vacuums.According to the company, Ballie carries out all of these tasks while adhering to strict data protection and privacy standards.
+
+[Check out this amazing video](https://www.youtube.com/watch?v=GH-FD4rmxKY)
+[Do read this article for more info](https://www.dezeen.com/2020/01/08/samsung-ballie-robot-ces-2020/?fbclid=IwAR3_BTGk8fyTPA4dPDc5UFRRD2xyJmj2G7wsdVC-DOqceMJ79IGo3DWr2NM)
+
+![ballie](https://github.com/sharvaree1921/Photos_for_repo/blob/master/index.jpeg)
+
+### Automated Sandwich Maker
+Ever had the audacity to think you were the fastest at making sandwiches? Rest assured, You are NOT unless you can make a sandwich per second 😲 
+US-based company Grote specializes in automating production lines that slice, fill and cut sandwiches. Until recently, the upper and lower halves of the sandwich were put together manually. Now, Grote has managed to automate this process as well, using a Stäubli TX2-60 HE six-axis robot with wash-down capability.
+
+Learn more [here](https://roboticsandautomationnews.com/2020/06/24/grote-automates-sandwich-production-using-staubli-robot-to-make-one-per-second/33379/?fbclid=IwAR2u7wVzS8fzCEviAO8r43Mlku-CynXJo7KfLwZ7ROy-ntY4CU5DsGWIcpk)
+
+Their range of machines includes slicers for fillings such as sausage, ham and cheese, as well as bread feeders and cutters, depositors for semi-liquid condiments and wet salads, and cutters for the final sandwich product.Grote sees itself as a technology leader in this area of food processing. The systems it supplies are always tailored to the individual requirements of the user, which means its engineering department is heavily involved.
+
+At the heart of the assembly line is a six-axis robot, the Stäubli TX2-60 HE. A conveyor belt delivers the sandwiches to it as two halves – the bottom slice, already buttered and filled, and the top slice, which is only buttered. The robot picks up the top slice and places it on the filling on the bottom slice. The sandwich is now whole.
+Next, the robot rotates the sandwich 45 degrees and positions it diagonally on the conveyor belt. It then proceeds to the last station, where the sandwich is cut in half or quarters in the desired configuration, i.e. horizontal, diagonal, etc. Now the snack is ready for packaging.
+Up to 60 sandwiches per minute, per lane can be produced in this way – with twin lines available to double production up to 120 sandwiches per minute. An operation that was previously performed manually is now automated.
+
+The robot gripper is guided to its target using 3D image processing. The gripper itself was developed in-house by Grote. It enables reliable handling of the sandwich’s top slice, which is pliable in nature and thus difficult to grasp firmly.
+The entire production line complies with the principles of hygienic design. All edges are rounded, so there are no dead spaces where debris can build up, and the sandwich production line can withstand even the harshest cleaning procedures.
+To ensure maximum availability, Grote opted firmly for a Stäubli HE (Humid Environment) robot. The TX2-60 HE complies with protection class IP 67, with all cables being routed inside the housing, from pedestal to gripper.
+
+![1](https://github.com/sharvaree1921/Photos_for_repo/blob/master/105978875_3547623438598352_8513038367821736847_n.png)
+![2](https://github.com/sharvaree1921/Photos_for_repo/blob/master/106099897_3547622945265068_1887868538550295105_n.png)
+
+### Laser Raptor
+Although many fossils are simply lying exposed on the soil's surface, finding all of them would require a great deal of walking over varying terrain. A new autonomous hexacopter drone could help, as it uses a laser to hunt for fossils at night.
+Called the Laser Raptor, it was developed by Hong Kong University's Asst. Prof. Michael Pittman and the Foundation for Scientific Advancement's Thomas G. Kaye. It utilizes an existing process known as Laser-Stimulated Fluorescence.
+
+Check out the video [here](https://www.youtube.com/watch?v=t79XmfPyOWA&feature=youtu.be&fbclid=IwAR0_Q-nEIClzMpLm1njGyM57_ebkJBgLtWgVhwDe9eWB5Je5qEAtf-Qg3rA)
+
+![image1](https://github.com/sharvaree1921/Photos_for_repo/blob/master/Image_1.png)
+
+This technique - Laser-Stimulated Fluorescence (LSF) - was codeveloped at HKU and has been highly successful in palaeontology, making fossil bones glow and revealing otherwise invisible details like skin and cartilage (note 1). The application of LSF to an aerial system is possible because of the laser’s ability to project over great distances with little loss in power.
+
+Loaded with pre-programmed flight paths during the day, this prototype was launched at night in the badlands of Arizona and Wyoming, USA to search for fossils (Figure 1). Laser Raptor flies rapidly to search locations using its on-board navigation and then descends and maintains an altitude of 4 metres above ground so it can ‘mow the lawn’ in search of glowing targets as small as a thumbnail. After each “mission” is complete, a video of the laser scan is processed to find hot spots that are investigated the next day (Figure 2), leading to the recovery of new fossil specimens (Figure 3).
+
+![image2](https://github.com/sharvaree1921/Photos_for_repo/blob/master/Image_2.png)
+
+Fluorescence is extremely sensitive to differences in mineral composition. Although Laser Raptor was designed to locate fossils, it is ready to seek out a whole range of fluorescent targets including minerals e.g. to study rare and unusual geology or in search of mining materials like gemstones, certain organisms like scorpions, shellfish and cyanobacteria, and even archaeological artefacts and structures.
+
+### Artificial Pollination(Drone with Bubble machine)
+Other examples of robotic pollination that we’ve seen have involved direct contact between a pollen-carrying robot and a flower. This is a workable method, but it’s not at all efficient, requiring the robot to do what bees do: identify and localize individual flowers and then interact with them one at a time for reliable pollination. For a couple of flowers for a demo, this is workable, but the problem becomes scaling it up to cover even a single tree, let alone an entire orchard.
+
+The researchers said,
+"We accidentally found that natural pollen grains can be easily incorporated into a soap film and flown in the air using various bubble devices."
+
+Testing showed that 4 mg of pollen per mL of 0.4 percent surfactant solution resulted in soap bubbles that were each carrying up to 2,000 individual grains of pollen, stuck to the surface of the bubble membrane. The researches were also able to optimize the pH, and mix in boron, calcium, magnesium, potassium, and a few other things in the bubble solution to make it as pollen-friendly as possible, and showed that pollen grains within the solution were able to germinate successfully.
+To show that this technique was scalable, the final goal of this research was to perform robotic pollination on a larger scale using a drone with a sort of bubble machine gun (capable of generating 5,000 bubbles per minute) mounted underneath. In order to manage the downwash from the drone’s rotors, the researchers mixed a stabilizer into the bubble solution, which was so effective that some of them stuck around for 5 hours. These bubbles were smaller, and only carried about 300 pollen grains each, but if you’re generating nearly a hundred bubbles per second, that’s still a lot of pollen. And the researchers observed that it only took one single bubble landing on the pistil of a flower to result in pollination, with an overall success rate of 90 percent when the drone moved over flowers at a respectable 2 m/s at a height of 2 m.
+
+The primary limitation at this point seems to be that the surfactants used to make the bubbles, while biocompatible, aren’t as eco-friendly as they could be. But edible bubbles are already a thing, and the researchers want to try to get those to work next. They also point out that the drone technique would need some refinement in localization and mapping and control to be commercially useful, but I think we can forgive them for that.
+
+![Robotic Pollination](https://github.com/sharvaree1921/Photos_for_repo/blob/master/MzY1MzEzOQ.jpeg)
+
+### Robotic Laws
+Robots today serve in many roles, from entertainers to educators to executioners. As robotics technology advances, ethical concerns become more pressing: Should robots be programmed to follow a code of ethics, if this is even possible? None of humanity’s creations inspires such a confusing mix of awe, admiration, and fear. We want robots to make our lives easier and safer, yet we can’t quite bring ourselves to trust them. We’re crafting them in our own image, yet we are terrified they’ll supplant us.
+This thought opens the doors to Roboethics, an area of study concerning with formulation of rules to ensure machines with artificial intelligence (AI) behave in ways that prioritize human safety above their assigned tasks and their own safety in accordance with human morality.
+A pioneer in the field, the science fiction writer Isaac Asimov drafted The Three Laws of Robotics In his 1942 short story "Runaround". They are
+1. Robots must never harm human beings or, through inaction, allow a human being to come to harm.
+2. Robots must follow instructions from humans without violating rule 1.
+3. Robots must protect themselves without violating other rules.
+Later, Asimov added a fourth, or zeroth law, that preceded the others in terms of priority:
+0. A robot may not harm humanity, or, by inaction, allow humanity to come to harm.
+While these laws sound plausible, numerous arguments, such as robots designed for the military which challenges the first law, have demonstrated why they are inadequate. This calls for the need to revise the laws.
+
+For more info,click [here](https://io9.gizmodo.com/why-asimovs-three-laws-of-robotics-cant-protect-us-1553665410?fbclid=IwAR1t5y3vZK_X4Pilzacv68AMT7fwNu-f0pGYgTob8edrgOlVcRrML6vhGig)
+![asimov](https://github.com/sharvaree1921/Photos_for_repo/blob/master/106903750_3560761440617885_8482710906562592784_n.jpg)
+
+### Sparrow
+SPARROW, a steam-powered robotic concept, could one day take giant leaps over some of the most hazardous terrains known (and unknown) in the solar system.
+A novel robotic concept being investigated at NASA’s Jet Propulsion Laboratory in Southern California would use steam propulsion to hop across the sort of icy terrains found on Jupiter’s moon Europa and Saturn’s moon Enceladus. Both are thought to host vast subsurface oceans of salty water under a thick ice crust. But while that makes them fascinating destinations for scientific study, the little we know about their surfaces could also make navigating them especially challenging.
+That’s where the Steam Propelled Autonomous Retrieval Robot for Ocean Worlds, or SPARROW, comes in. About the size of a soccer ball, the robot consists of a system of thrusters, avionics and instruments encased in a protective spherical cage. To keep the environment pristine for study, SPARROW would run not on rocket fuel but on steam produced from melted ice, traveling primarily through the air via short thrusts. In the sort of low-gravity environment found on those distant icy moons, there’d be no atmospheric drag to slow it down, enabling hops of many miles over landscapes that other robots would have difficulty navigating.
+![sparrow](https://github.com/sharvaree1921/Photos_for_repo/blob/master/SPARROW-Robot-777x437.jpg)
+check out this amazing [video](https://www.youtube.com/watch?time_continue=68&v=nkimUw3GqLQ&feature=emb_logo)
+
+### Spy cam
 
